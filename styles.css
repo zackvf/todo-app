@@ -1,0 +1,19 @@
+.item-description {
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+/* when the checkbox is checked, update the style of the item description by targetting the sibling in the html, which in this case is just the next sibling within the same parent div */
+.item-completed:checked + .item-description {
+    background: #dddddd;
+    text-decoration: line-through;
+}
+
+#add {
+    padding: 8px 14px;
+    font-weight: bold;
+    color: #ffffff;
+    background: #009578;
+    cursor: pointer;
+}
