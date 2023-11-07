@@ -4,4 +4,4 @@ This is a basic todo list built with just HTML, CSS, and JavaScript, which store
 
 # Basic functionality in action
 
-![](./creating new tasks.gif "Creating new tasks")
+![Creating new tasks](<creating new tasks.gif>)
