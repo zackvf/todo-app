@@ -16,7 +16,9 @@ This is a basic todo list built with just HTML, CSS, and JavaScript, which store
 
   - In a terminal window, run the following command to clone the repo files to your desired directory:
 
-    `git clone https://github.com/zackvf/todo-app.git`
+    ```
+    git clone https://github.com/zackvf/todo-app.git
+    ```
 
   - Open the "index.html" file in your preferred browser
 
