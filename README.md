@@ -6,7 +6,7 @@ This is a basic todo list built with just HTML, CSS, and JavaScript, which store
 
 ![Creating new tasks](<creating new tasks.gif>)
 
-#### Under the hood in local storage
+### Under the hood in local storage
 
 ![Creating new tasks](<ls creating new tasks.gif>)
 
@@ -14,7 +14,7 @@ This is a basic todo list built with just HTML, CSS, and JavaScript, which store
 
 ![Removing a task](<removing tasks.gif>)
 
-#### Under the hood in local storage
+### Under the hood in local storage
 
 ![Removing a task](<ls removing tasks.gif>)
 
@@ -22,15 +22,15 @@ This is a basic todo list built with just HTML, CSS, and JavaScript, which store
 
 ![Removing completed task](<removing completed tasks.gif>)
 
-#### Under the hood in local storage
+### Under the hood in local storage
 
 ![Removing completed task](<ls removing completed tasks.gif>)
 
-## Clearing the todo list (clears local storage and reloads the page)
+## Clearing the list (clears local storage and reloads the page)
 
 ![Clearing task list](<clearing task list.gif>)
 
-#### Under the hood in local storage
+### Under the hood in local storage
 
 ![Clearing task list](<ls clearing task list.gif>)
 
@@ -39,7 +39,7 @@ This is a basic todo list built with just HTML, CSS, and JavaScript, which store
 - Adding a calendar to the app (in progress)
 - Adding a prompt to the Clear Task List button to ensure user definitely wants to reset their list
 - Applying tasks to user-selected calendar days
-- Storing todo lists in an external database (to not rely on local storage)
+- Storing lists in an external database to not rely on local storage
 
 ## Known issues
 
