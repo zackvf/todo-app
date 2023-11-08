@@ -2,7 +2,7 @@
 
 This is a basic todo list built with just HTML, CSS, and JavaScript, which stores the user's list in local storage for persistent functionality and auto-sorts task items alphanumerically.
 
-## Creating a new task
+## Creating new tasks
 
 ![Creating new tasks](<creating new tasks.gif>)
 
