@@ -14,10 +14,46 @@ body {
     text-decoration: line-through;
 }
 
+/* Button Group 1 */
+.buttons-1 {
+    margin: 10px;
+}
+
+/* Button Group 2 */
+.buttons-2 {
+    margin: 10px;
+}
+
+/* Individual Buttons */
+
 #add {
     padding: 8px 14px;
     font-weight: bold;
     color: #ffffff;
-    background: rgb(141, 72, 8);
+    background: rgb(26, 141, 8);
+    cursor: pointer;
+}
+
+#remove-new {
+    padding: 8px 14px;
+    font-weight: bold;
+    color: #ffffff;
+    background: rgb(186, 197, 38);
+    cursor: pointer;
+}
+
+#remove-completed {
+    padding: 8px 14px;
+    font-weight: bold;
+    color: #ffffff;
+    background: rgb(197, 120, 38);
+    cursor: pointer;
+}
+
+#clear {
+    padding: 8px 14px;
+    font-weight: bold;
+    color: #ffffff;
+    background: rgb(141, 24, 8);
     cursor: pointer;
 }
