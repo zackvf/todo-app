@@ -6,19 +6,19 @@ This is a basic todo list built with just HTML, CSS, and JavaScript, which store
 
 - Without git installed on your pc:
 
-  1. Click the Code button above the repo files
-  2. Select the Local tab
-  3. Click Download ZIP
-  4. Extract the ZIP iles to your desktop or desired directory
-  5. Open the "index.html" file in your preferred browser
+  - Click the Code button above the repo files
+  - Select the Local tab
+  - Click Download ZIP
+  - Extract the ZIP files to your desired directory
+  - Open the "index.html" file in your preferred browser
 
 - With git installed on your pc:
 
-  1. In a terminal window, run the following command to clone the repo files to your desired directory:
+  - In a terminal window, run the following command to clone the repo files to your desired directory:
 
-     > git clone https://github.com/zackvf/todo-app.git
+    `git clone https://github.com/zackvf/todo-app.git`
 
-  2. Open the "index.html" file in your preferred browser
+  - Open the "index.html" file in your preferred browser
 
 ## Creating new tasks
 
@@ -54,10 +54,10 @@ This is a basic todo list built with just HTML, CSS, and JavaScript, which store
 
 ## Roadmap
 
-- Adding a prompt to the Clear Task List button to ensure user definitely wants to reset their list
-- Adding a calendar to the app
-- Applying tasks to user-selected calendar days
-- Storing lists in an external database to not rely on local storage
+- [ ] Adding a prompt to the Clear Task List button to ensure user definitely wants to reset their list
+- [ ] Adding a calendar to the app
+- [ ] Applying tasks to user-selected calendar days
+- [ ] Storing lists in an external database to not rely on local storage
 
 ## Known issues
 
