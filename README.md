@@ -56,7 +56,7 @@ This is a basic todo list built with just HTML, CSS, and JavaScript, which store
 
 ## Roadmap
 
-- [ ] Adding a prompt to the Clear Task List button to ensure user definitely wants to reset their list
+- [ ] Adding a prompt to the Clear Task List button to ensure the user definitely wants to reset their list
 - [ ] Adding a calendar to the app
 - [ ] Applying tasks to user-selected calendar days
 - [ ] Storing lists in an external database to not rely on local storage
