@@ -8,6 +8,14 @@
     <script src="main.js" defer></script>
 </head>
 <body>
+    <div class="buttons-1">
+        <button id="add">Create Task</button>
+        <button id="remove-new">Remove Task</button>
+    </div>
+    <div class="buttons-2">
+        <button id="remove-completed">Remove Completed Task</button>
+        <button id="clear">Clear Task List</button>
+    </div>
     <div id="items">
         <template id="itemTemplate">
             <div class="item">
@@ -15,14 +23,6 @@
                 <input type="text" class="item-description" placeholder="What do you need to get done?">
             </div>
         </template>
-    </div>
-    <div class="buttons-1">
-        <button id="add">Create Task</button>
-        <button id="remove-new">Remove New Task</button>
-    </div>
-    <div class="buttons-2">
-        <button id="remove-completed">Remove Completed Task</button>
-        <button id="clear">Clear Task List</button>
     </div>
 </body>
 </html>
