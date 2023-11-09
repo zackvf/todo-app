@@ -55,6 +55,12 @@ function removeCompletedItem() {
     }
     setItems(items);
     refreshList();
+    // items.pop();
+    // const res = getItems();
+    // console.log(res);
+    // const returnedObject = res.filter((el) => el.completed == false);
+    // console.log("test", returnedObject);
+    // location.reload();
 }
 
 // clear the todo object from local storage to clear the entire list, refresh the page to start a new list
@@ -75,7 +81,7 @@ function refreshList() {
         }
         return a.description < b.description ? -1 : 1;
     });
-    setItems(items);
+    // setItems(items);
     itemContainer.innerHTML = ""; // removing this line duplicates the full todo item list on add button click?
     for (let item of items) { // loop through the tasks from getItems
         const itemElement = itemTemplate.content.cloneNode(true); // copy the "content" of the item template div, being the "item" div
